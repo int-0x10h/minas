@@ -1,0 +1,7 @@
+|________________________________|
+| MinAS -- [Min]imal [As]sembler |
+|̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅ ̅|
+
+MinAS is a simple, small, and free (as in libre) assembler with macro capabilities.
+
+By default, it uses a syntax rather similar to NASM's (https://nasm.us), but with PASCAL-style blocks.
